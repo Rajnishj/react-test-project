@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//Rajnishj.github.io/react-test-project/static/css/main.d9824e08.css",
-    "main.js": "/https//Rajnishj.github.io/react-test-project/static/js/main.a589eb3d.js",
-    "index.html": "/https//Rajnishj.github.io/react-test-project/index.html",
-    "main.d9824e08.css.map": "/https//Rajnishj.github.io/react-test-project/static/css/main.d9824e08.css.map",
-    "main.a589eb3d.js.map": "/https//Rajnishj.github.io/react-test-project/static/js/main.a589eb3d.js.map"
+    "main.css": "/react-test-project/static/css/main.d9824e08.css",
+    "main.js": "/react-test-project/static/js/main.a589eb3d.js",
+    "index.html": "/react-test-project/index.html",
+    "main.d9824e08.css.map": "/react-test-project/static/css/main.d9824e08.css.map",
+    "main.a589eb3d.js.map": "/react-test-project/static/js/main.a589eb3d.js.map"
   },
   "entrypoints": [
     "static/css/main.d9824e08.css",
